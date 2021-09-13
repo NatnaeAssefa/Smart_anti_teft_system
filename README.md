@@ -1,3 +1,4 @@
+![Capture](https://user-images.githubusercontent.com/59432306/133130171-b37387f5-cbaa-443b-bd9e-e7460293203a.PNG)
 # smart-anti-theft-system
 a smart anti theft system that can be used for one door way room or small office
 this system uses a microcontroller and an ultrasonic sensor to sense if there is some one or object outthere
